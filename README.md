@@ -31,7 +31,7 @@ Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projeto
 - HTML5
 - CSS3
 - Responsividade
-- JavaScript
+- JavaScript(externo)
 - GoogleFonts
 - Figma
 - Vercel
