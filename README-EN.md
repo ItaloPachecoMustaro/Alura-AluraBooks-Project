@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Welcome to my Web Project: HTML and CSS from Scratch</h1>
+<h1>Welcome to my Web Project: HTML and CSS: mobile-first responsiveness</h1>
 </div>
 
 <hr>
@@ -8,7 +8,7 @@
 
 ## 📚Description
 
-This is a web project that I created as part of the "HTML and CSS for Web Projects from Scratch" course. During the course, I learned the essential fundamentals of web development, starting from scratch.
+Participating in Alura's HTML and CSS for Web Projects from Scratch' course, I developed AluraBooks, a study platform that uses educational books as a base. During the course, I acquired essential skills to build a website using HTML and CSS. I learned to interpret website prototypes created in Figma, understood the mobile-first approach and mastered the use of media queries to create responsive layouts.
 
 <br>
 
@@ -18,12 +18,9 @@ This is a web project that I created as part of the "HTML and CSS for Web Projec
 
 <br>
 
-## 👨‍🏫Course Tutors
+## 👨‍🏫Course Tutor
 
 - [Mônica Mazzochi Hillman](https://github.com/MonicaHillman)
-- [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178)
-- [Rafaella Ballerini](https://github.com/rafaballerini)
-- [Vanessa Me Tonini](https://github.com/vanessametonini)
 
 <br>
 
