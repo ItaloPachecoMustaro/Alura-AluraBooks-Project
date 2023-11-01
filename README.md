@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Bem-vindo ao meu Projeto Web: HTML e CSS do Zero</h1> 
+<h1>Bem-vindo ao meu Projeto Web: HTML e CSS: responsividade com mobile-first</h1> 
 </div>
 
 <hr>
@@ -8,7 +8,7 @@
 
 ## 📚Descrição
 
-Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projetos Web a Partir do Zero". Durante o curso, aprendi os fundamentos essenciais do desenvolvimento web, começando do zero.
+Participando do curso 'HTML e CSS para Projetos Web a Partir do Zero' da Alura, desenvolvi o AluraBooks, uma plataforma de estudos que utiliza livros educativos como base. Durante o curso, adquiri competências essenciais para construir um site utilizando HTML e CSS. Aprendi a interpretar protótipos de sites criados no Figma, compreendi a abordagem mobile-first e dominei o uso de media queries para criar layouts responsivos.
 
 <br>
 
@@ -18,12 +18,9 @@ Este é um projeto web que eu criei como parte do curso "HTML e CSS para Projeto
 
 <br>
 
-## 👨‍🏫Tutores do Curso
+## 👨‍🏫Tutor do Curso
 
 - [Mônica Mazzochi Hillman](https://github.com/MonicaHillman)
-- [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178)
-- [Rafaella Ballerini](https://github.com/rafaballerini)
-- [Vanessa Me Tonini](https://github.com/vanessametonini)
 
 <br>
 
